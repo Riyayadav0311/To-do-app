@@ -10,3 +10,6 @@ A beautiful and functional To-Do List app built using **Flutter**, designed to h
 - 🔔 Sends 2–3 daily notifications (morning, afternoon, and night)
 - 🎉 Lottie animation popup: "Wow! You did it!" when you complete a task
 - 💾 Data persistence using local storage *(SharedPreferences or SQLite)*
+
+
+Author - Riya Yadav
